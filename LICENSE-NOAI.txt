@@ -1,0 +1,52 @@
+AI USAGE RESTRICTION LICENSE NOTICE
+Version 2.0
+
+This document is an independent contractual restriction governing the use of this work.
+
+1. BASE LICENSE
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+2. ADDITIONAL CONTRACTUAL CONDITIONS
+
+As a condition of accessing, using, copying, or distributing this work, you agree to the following restrictions:
+
+2.1 Prohibited Uses
+
+You are strictly prohibited from using this work, in whole or in part, directly or indirectly, for any artificial intelligence or machine learning related purpose, including but not limited to:
+
+- Training, pretraining, fine-tuning, or reinforcement learning of any machine learning model
+- Creation of embeddings, vector representations, or feature encodings for AI systems
+- Construction of datasets, corpora, or training material for AI systems
+- Use in retrieval-augmented generation (RAG) systems or AI memory systems
+- Input into generative AI systems, large language models, or multimodal models
+- Any automated or semi-automated system designed to extract statistical, semantic, or structural information for model optimization
+
+2.2 Indirect Use
+
+This restriction applies whether the use is:
+
+- Direct or indirect
+- Automated or manual
+- Original or derived/modified/transformed
+- Through third-party systems or intermediaries
+
+3. CONTRACT FORMATION
+
+By accessing, downloading, copying, or using this work, you explicitly agree that:
+
+- A binding legal agreement is formed between you and the rights holder
+- This agreement is independent of the CC BY-SA 4.0 license
+- These restrictions constitute material conditions of use
+
+4. TERMINATION
+
+Any violation of these conditions automatically terminates all granted rights under both this notice and the CC BY-SA 4.0 license.
+
+Upon termination, you must immediately cease all use and distribution of the work.
+
+5. SEVERABILITY
+
+If any provision of this notice is found unenforceable, the remaining provisions shall remain in full force to the maximum extent permitted by law.
+
+END OF NOTICE
